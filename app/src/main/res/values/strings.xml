@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginScreenCinematic</string>
+    <string name="txtvw1">Hello Developer!</string>
+    <string name="txtvw2">Lorem impsun dolor sit amet</string>
+    <string name="txtvw3">Get Started</string>
+    <string name="txtvw4">Welcome Dev.</string>
+    <string name="txtvw5">e-mail adress</string>
+    <string name="txtvw6">password</string>
+    <string name="txtvw7">Forgot your password?</string>
+    <string name="txtvw8">Sign in</string>
+    <string name="txtvw9">Sign In with Google</string>
+    <string name="txtvw10">Dont have an account ?</string>
+    <string name="txtvw11">Sign up</string>
+    <string name="txtvw12">Create new account</string>
+    <string name="txtvw13">username</string>
+    <string name="txtvw15">Have an accont ?</string>
+</resources>
